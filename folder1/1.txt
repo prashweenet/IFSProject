@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 2222
-=======
 tttt
->>>>>>> 9e91dd7c1178196a38af24778df15ed04def2f4e
+tttt
+dfasd
+dsfsa
